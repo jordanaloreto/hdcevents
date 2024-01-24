@@ -64,7 +64,7 @@ header {
 
 /* Search Container */
 #search-container {
-  background-image: url("../img/banner.jpg");
+  background-image: url("../img/Promocao-de-eventos-930x534.png");
   background-size: cover;
   background-position: center;
   height: 400px;
@@ -182,6 +182,15 @@ header {
 
 #info-container #event-submit {
   margin: 20px 0;
+}
+
+#items-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+#items-list li {
+  display: flex;
 }
 
 /* footer */
